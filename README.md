@@ -52,24 +52,24 @@ npm run dev
 ## 🧪 Testes no Thunder Client
 
 ### Buscar Eventos 
-![Buscar Eventos ]()
+![Buscar Eventos ](./Imagens/Prints/BuscarEventos.png)
 
 ### Cadastrar Eventos 
-![Cadastrar Eventos ](url-da-imagem-ou-caminho)
+![Cadastrar Eventos ](./Imagens/Prints/CadastrarEventos.png)
 
 ### Buscar Usuarios 
-![Buscar Usuarios ](url-da-imagem-ou-caminho)
+![Buscar Usuarios ](./Imagens/Prints/BuscarUsuarios.png)
 
 ### Cadastrar Usuarios
-![Cadastrar Usuarios ](url-da-imagem-ou-caminho)
+![Cadastrar Usuarios ](./Imagens/Prints/CadastrarUsuarios.png)
 
 ## 📐 Diagramas do projeto
 
 ### MER DER Conceitual
-![Buscar Eventos ](url-da-imagem-ou-caminho)
+![MER DER Conceitual](./Imagens/MER%20DER/mer_der_conceitual.png)
 
 ### MER DER Lógico 
-![Buscar Eventos ](url-da-imagem-ou-caminho)
+![MER DER Lógico](./Imagens/MER%20DER/mer_der_logico.png)
 
 ## 🎯 Objetivos de aprendizagem
 
